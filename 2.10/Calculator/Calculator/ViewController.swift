@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Calculator
 //
-//  Created by Fariha Hussain on 2/17/20.
+//  Created by Johrulislam Khan on 2/17/20.
 //  Copyright © 2020 PretendCo. All rights reserved.
 //
 
